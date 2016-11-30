@@ -1,0 +1,14 @@
+﻿{
+  "projects": [
+    "ModuleA/WebModular.ModuleA.Common",
+    "ModuleA/WebModular.ModuleA.Service",
+    "ModuleA/WebModular.ModuleA.Web",
+    "test",
+    "WebModular.Core",
+    "WebModular.ModuleInitializer",
+    "WebModular.WebHost"
+  ],
+  "sdk": {
+    "version": "1.0.0-preview2-003121"
+  }
+}
